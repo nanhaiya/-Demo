@@ -1,6 +1,7 @@
 # -讯飞语音转文本Demo
 ## [讯飞平台官网](https://www.xfyun.cn/)  
 ## [API文档](https://www.xfyun.cn/doc/platform/xfyunreadme.html)
+## [本项目语音转写文档](https://www.xfyun.cn/doc/asr/lfasr/Java-SDK.html#_2%E3%80%81sdk%E9%9B%86%E6%88%90%E6%8C%87%E5%8D%97)
   
 ## 使用步骤
 ### 1，首先在讯飞开放平台注册和申请用户并实名认证  
